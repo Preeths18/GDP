@@ -1,0 +1,121 @@
+item,year,gsdp,state
+"Agriculture, forestry and fishing",2011-12,1330208,Uttarakhand
+"Agriculture, forestry and fishing",2012-13,1536643,Uttarakhand
+"Agriculture, forestry and fishing",2013-14,1579095,Uttarakhand
+"Agriculture, forestry and fishing",2014-15,1601423,Uttarakhand
+"Agriculture, forestry and fishing",2015-16,1715039,Uttarakhand
+Crops,2011-12,764026,Uttarakhand
+Crops,2012-13,901730,Uttarakhand
+Crops,2013-14,850163,Uttarakhand
+Crops,2014-15,866146,Uttarakhand
+Crops,2015-16,893917,Uttarakhand
+Livestock,2011-12,287787,Uttarakhand
+Livestock,2012-13,313744,Uttarakhand
+Livestock,2013-14,351373,Uttarakhand
+Livestock,2014-15,391188,Uttarakhand
+Livestock,2015-16,447222,Uttarakhand
+Forestry and logging,2011-12,274833,Uttarakhand
+Forestry and logging,2012-13,317354,Uttarakhand
+Forestry and logging,2013-14,373062,Uttarakhand
+Forestry and logging,2014-15,339293,Uttarakhand
+Forestry and logging,2015-16,368781,Uttarakhand
+Fishing and aquaculture,2011-12,3562,Uttarakhand
+Fishing and aquaculture,2012-13,3815,Uttarakhand
+Fishing and aquaculture,2013-14,4497,Uttarakhand
+Fishing and aquaculture,2014-15,4796,Uttarakhand
+Fishing and aquaculture,2015-16,5119,Uttarakhand
+Mining and quarrying,2011-12,186083,Uttarakhand
+Mining and quarrying,2012-13,205726,Uttarakhand
+Mining and quarrying,2013-14,354844,Uttarakhand
+Mining and quarrying,2014-15,244549,Uttarakhand
+Mining and quarrying,2015-16,298187,Uttarakhand
+Manufacturing,2011-12,4365135,Uttarakhand
+Manufacturing,2012-13,5082899,Uttarakhand
+Manufacturing,2013-14,5439264,Uttarakhand
+Manufacturing,2014-15,5866252,Uttarakhand
+Manufacturing,2015-16,6132562,Uttarakhand
+"Electricity, gas, water supply & other utility services",2011-12,398079,Uttarakhand
+"Electricity, gas, water supply & other utility services",2012-13,416111,Uttarakhand
+"Electricity, gas, water supply & other utility services",2013-14,375058,Uttarakhand
+"Electricity, gas, water supply & other utility services",2014-15,433880,Uttarakhand
+"Electricity, gas, water supply & other utility services",2015-16,541284,Uttarakhand
+Construction,2011-12,883766,Uttarakhand
+Construction,2012-13,936950,Uttarakhand
+Construction,2013-14,1243051,Uttarakhand
+Construction,2014-15,1342733,Uttarakhand
+Construction,2015-16,1833004,Uttarakhand
+"Trade, repair, hotels and restaurants",2011-12,1192897,Uttarakhand
+"Trade, repair, hotels and restaurants",2012-13,1408869,Uttarakhand
+"Trade, repair, hotels and restaurants",2013-14,1614577,Uttarakhand
+"Trade, repair, hotels and restaurants",2014-15,1743106,Uttarakhand
+"Trade, repair, hotels and restaurants",2015-16,1991602,Uttarakhand
+Trade & repair services,2011-12,1013998,Uttarakhand
+Trade & repair services,2012-13,1218822,Uttarakhand
+Trade & repair services,2013-14,1426694,Uttarakhand
+Trade & repair services,2014-15,1534073,Uttarakhand
+Trade & repair services,2015-16,1768221,Uttarakhand
+Hotels & restaurants,2011-12,178899,Uttarakhand
+Hotels & restaurants,2012-13,190047,Uttarakhand
+Hotels & restaurants,2013-14,187883,Uttarakhand
+Hotels & restaurants,2014-15,209033,Uttarakhand
+Hotels & restaurants,2015-16,223381,Uttarakhand
+"Transport, storage, communication & services related to broadcasting",2011-12,703706,Uttarakhand
+"Transport, storage, communication & services related to broadcasting",2012-13,825647,Uttarakhand
+"Transport, storage, communication & services related to broadcasting",2013-14,951652,Uttarakhand
+"Transport, storage, communication & services related to broadcasting",2014-15,1066693,Uttarakhand
+"Transport, storage, communication & services related to broadcasting",2015-16,1224232,Uttarakhand
+Railways,2011-12,14140,Uttarakhand
+Railways,2012-13,16514,Uttarakhand
+Railways,2013-14,17214,Uttarakhand
+Railways,2014-15,21295,Uttarakhand
+Railways,2015-16,24470,Uttarakhand
+Road transport*,2011-12,218487,Uttarakhand
+Road transport*,2012-13,259840,Uttarakhand
+Road transport*,2013-14,287156,Uttarakhand
+Road transport*,2014-15,307147,Uttarakhand
+Road transport*,2015-16,339240,Uttarakhand
+Water transport,2011-12,NA,Uttarakhand
+Water transport,2012-13,NA,Uttarakhand
+Water transport,2013-14,NA,Uttarakhand
+Water transport,2014-15,NA,Uttarakhand
+Water transport,2015-16,NA,Uttarakhand
+Air transport,2011-12,652,Uttarakhand
+Air transport,2012-13,1229,Uttarakhand
+Air transport,2013-14,2158,Uttarakhand
+Air transport,2014-15,3889,Uttarakhand
+Air transport,2015-16,7053,Uttarakhand
+Services incidental to transport,2011-12,NA,Uttarakhand
+Services incidental to transport,2012-13,NA,Uttarakhand
+Services incidental to transport,2013-14,NA,Uttarakhand
+Services incidental to transport,2014-15,-76,Uttarakhand
+Services incidental to transport,2015-16,NA,Uttarakhand
+Storage,2011-12,579,Uttarakhand
+Storage,2012-13,678,Uttarakhand
+Storage,2013-14,735,Uttarakhand
+Storage,2014-15,660,Uttarakhand
+Storage,2015-16,699,Uttarakhand
+Communication & services related to broadcasting,2011-12,469848,Uttarakhand
+Communication & services related to broadcasting,2012-13,547386,Uttarakhand
+Communication & services related to broadcasting,2013-14,644389,Uttarakhand
+Communication & services related to broadcasting,2014-15,733778,Uttarakhand
+Communication & services related to broadcasting,2015-16,852770,Uttarakhand
+Financial services,2011-12,293318,Uttarakhand
+Financial services,2012-13,320421,Uttarakhand
+Financial services,2013-14,357514,Uttarakhand
+Financial services,2014-15,385030,Uttarakhand
+Financial services,2015-16,421624,Uttarakhand
+"Real estate, ownership of dwelling & professional services",2011-12,588825,Uttarakhand
+"Real estate, ownership of dwelling & professional services",2012-13,671182,Uttarakhand
+"Real estate, ownership of dwelling & professional services",2013-14,739177,Uttarakhand
+"Real estate, ownership of dwelling & professional services",2014-15,831307,Uttarakhand
+"Real estate, ownership of dwelling & professional services",2015-16,935310,Uttarakhand
+Public administration,2011-12,412001,Uttarakhand
+Public administration,2012-13,323723,Uttarakhand
+Public administration,2013-14,483887,Uttarakhand
+Public administration,2014-15,579409,Uttarakhand
+Public administration,2015-16,711920,Uttarakhand
+Other services,2011-12,498856,Uttarakhand
+Other services,2012-13,668947,Uttarakhand
+Other services,2013-14,827478,Uttarakhand
+Other services,2014-15,982430,Uttarakhand
+Other services,2015-16,1255262,Uttarakhand
